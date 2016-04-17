@@ -1,0 +1,27 @@
+{
+  "name": "vue-elixir-example",
+  "version": "1.0.0",
+  "description": "An example on how to use Laravel Elixir for any project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WhatDaFox-Examples/Laravel-Elixir.git"
+  },
+  "keywords": [
+    "laravel",
+    "elixir",
+    "vuejs",
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Valentin Prugnaud",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WhatDaFox-Examples/Laravel-Elixir/issues"
+  },
+  "homepage": "https://github.com/WhatDaFox-Examples/Laravel-Elixir#readme"
+}
