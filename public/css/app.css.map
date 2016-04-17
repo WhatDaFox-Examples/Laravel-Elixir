@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.scss"],"names":[],"mappings":"AAAA;EACC,iBAAiB;EACjB,0CAA0C,EAC1C","file":"app.css","sourcesContent":["h1 {\n\tfont-size: 2.4em;\n\tfont-family: Helvetica, Arial, sans-serif;\n}"],"sourceRoot":"/source/"}
